@@ -1,0 +1,6 @@
+<div class="notice"><P><%=notice %></p></div>
+<P><strong>Title:</strong><%= @book.title %></P>
+<P><strong>Body:</strong><%= @book.body %></P>
+<span><%=link_to "Edit", edit_book_path(@book.id)%></span>
+<%="|"%>
+<span><%=link_to "Back", books_path %></span>

@@ -1,0 +1,36 @@
+
+
+
+body {
+    background-color: #fff;
+    color: #333;
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 33px;}
+ a {
+    color: #000;
+ }
+
+
+p, ol, ul, td {
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 33px;
+}
+.notice {
+    color: green;
+}
+th {
+    padding-bottom: 5px;
+}
+.field,.actions {
+    margin-bottom: 10px;
+}
+label {
+    display: block;
+}
+label {
+    display: block;
+}
